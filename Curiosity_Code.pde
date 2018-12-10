@@ -32,6 +32,3 @@ ellipse(408, 276, 5, 3);
 
 
 
-fill(0);
-textSize(18);
-text("("+mouseX+","+mouseY+")", mouseX, mouseY);
